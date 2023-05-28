@@ -1,2 +1,3 @@
 # game admin page
-simple web interface example, Java Spring JPA
+CRUD operations with an online game users via web interface
+Java Spring JPA
